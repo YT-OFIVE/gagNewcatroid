@@ -38,7 +38,12 @@
       <name>Сцена</name>
       <objectList>
         <object type="Sprite" spriteId="40692184-3828-4bc3-bed1-6f6be5df8e14" name="Фон">
-          <lookList/>
+          <lookList>
+            <look fileName="Фон.png" lookId="e098567c-08d1-49c5-add7-4e37c2212b11" name="Фон">
+              <isWebRequest>false</isWebRequest>
+              <valid>true</valid>
+            </look>
+          </lookList>
           <soundList/>
           <scriptList/>
           <nfcTagList/>
