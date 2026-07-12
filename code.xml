@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<program>
+  <header>
+    <applicationBuildName></applicationBuildName>
+    <applicationBuildNumber>0</applicationBuildNumber>
+    <applicationBuildType>release</applicationBuildType>
+    <applicationName>NewCatroid</applicationName>
+    <applicationVersion>2.1.1b2</applicationVersion>
+    <catrobatLanguageVersion>1.17</catrobatLanguageVersion>
+    <customResolution>false</customResolution>
+    <dateTimeUpload></dateTimeUpload>
+    <description></description>
+    <deviceName>Infinix X6873</deviceName>
+    <gitRemoteUrl></gitRemoteUrl>
+    <isCastProject>false</isCastProject>
+    <landscapeMode>true</landscapeMode>
+    <listeningLanguageTag></listeningLanguageTag>
+    <mediaLicense></mediaLicense>
+    <notesAndCredits></notesAndCredits>
+    <physicsHeightArea>2.0</physicsHeightArea>
+    <physicsWidthArea>3.0</physicsWidthArea>
+    <platform>Android</platform>
+    <platformVersion>35</platformVersion>
+    <programLicense></programLicense>
+    <programName>Grow a garden</programName>
+    <remixOf></remixOf>
+    <scenesEnabled>true</scenesEnabled>
+    <screenHeight>1224</screenHeight>
+    <screenMode>STRETCH</screenMode>
+    <screenWidth>2542</screenWidth>
+    <tags></tags>
+    <url></url>
+    <userHandle></userHandle>
+  </header>
+  <settings/>
+  <scenes>
+    <scene sceneId="bfd966c9-7add-4306-bb36-7af0f734551e">
+      <name>Сцена</name>
+      <objectList>
+        <object type="Sprite" spriteId="40692184-3828-4bc3-bed1-6f6be5df8e14" name="Фон">
+          <lookList/>
+          <soundList/>
+          <scriptList/>
+          <nfcTagList/>
+          <userVariables/>
+          <userLists/>
+          <userDefinedBrickList/>
+        </object>
+      </objectList>
+    </scene>
+  </scenes>
+  <programVariableList/>
+  <programListOfLists/>
+  <programMultiplayerVariableList/>
+</program>
