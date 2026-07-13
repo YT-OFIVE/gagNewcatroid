@@ -684,13 +684,20 @@
                         <formula category="TIMES_TO_REPEAT">
                           <additionalChildren/>
                           <type>NUMBER</type>
-                          <value>15</value>
+                          <value>16</value>
                         </formula>
                       </formulaList>
                       <loopBricks>
-                        <brick type="CloneBrick">
-                          <brickId>d4849edb-42f7-440d-997c-04f9ba68cf4d</brickId>
+                        <brick type="CloneAndNameBrick">
+                          <brickId>a50e3ff6-5303-4604-94ef-e949ba68e00b</brickId>
                           <commentedOut>false</commentedOut>
+                          <formulaList>
+                            <formula category="CLONE_NAME">
+                              <additionalChildren/>
+                              <type>STRING</type>
+                              <value>slot (1)</value>
+                            </formula>
+                          </formulaList>
                         </brick>
                         <brick type="ChangeXByNBrick">
                           <brickId>363fdf3c-952d-4dab-960a-d283102ea5f6</brickId>
