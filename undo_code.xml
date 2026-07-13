@@ -152,7 +152,7 @@
           <userLists/>
           <userDefinedBrickList/>
         </object>
-        <object type="GroupItemSprite" spriteId="a4859c1f-04e2-4227-a5e8-0244e8771423" name="button">
+        <object type="Sprite" spriteId="afe3c533-413d-4d2b-9026-6e69e1b4f201" name="button">
           <lookList>
             <look fileName="Мой актер или объект_#1.png" lookId="908017bd-9d4c-4b27-a416-36964e65d14d" name="seeds">
               <isWebRequest>false</isWebRequest>
@@ -194,7 +194,7 @@
                     <formula category="TIMES_TO_REPEAT">
                       <additionalChildren/>
                       <type>NUMBER</type>
-                      <value>2</value>
+                      <value>10</value>
                     </formula>
                   </formulaList>
                   <loopBricks>
